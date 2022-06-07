@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyALet8Gr2lmVfIF3fm6rL_aY6dEWYjWZ2A",
+  authDomain: "crwn-clothing-db-a6ea6.firebaseapp.com",
+  projectId: "crwn-clothing-db-a6ea6",
+  storageBucket: "crwn-clothing-db-a6ea6.appspot.com",
+  messagingSenderId: "789528971107",
+  appId: "1:789528971107:web:9b2efdfb361f923a91b556"
+};
